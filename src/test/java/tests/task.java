@@ -9,7 +9,6 @@ public class task {
 
   public void hi() {
     int x = 5;
-    int y = 10;
   }
 
 }
