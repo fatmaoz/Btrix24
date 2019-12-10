@@ -5,6 +5,7 @@ public class task {
     System.out.println("Hello world");
 
 
+
   }
 
   public void hi() {
@@ -12,4 +13,9 @@ public class task {
     String m;
   }
 
-}
+
+
+  public String hello(){
+    return "hello from github";
+  }
+}  
