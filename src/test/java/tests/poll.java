@@ -1,5 +1,5 @@
 package tests;
-//added from github line 2
+//added from github llinesix seven
 public class poll {
 
 
